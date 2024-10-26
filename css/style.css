@@ -1,0 +1,1052 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+ol,ul{
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1,h2.h3,h4,h5,h6,a,p,span,nav,ul,ol,li,header{
+    padding: 0;
+    list-style: none;
+}
+
+body{
+
+    background-color:#f1f1f1;
+
+    /* font-family: "Inter", sans-serif; */
+    /* <i class="fa-regular fa-file-code"></i> */
+}
+ /* 1st part css start */
+ .sitebar{
+    background-color: white;
+    width: 100%;
+    height: 1350px;
+ }
+
+ .sitebar_imge{
+   text-align: center;
+   
+  
+}
+
+.sitebar_imge img {
+  height: 196px;
+  width: 300px !important;
+  border-radius: 50% !important;
+  padding: 22px;
+}
+
+ .item_text{
+    text-align: center;
+ }
+
+ .item_text h2{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 31px;
+ }
+
+ 
+ .item_text h4{
+    padding-top: 13px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+ }
+
+ .item_icon{
+    text-align: center;
+    padding-top: 15px;
+ }
+.center_text a{
+   display: inline-block;
+   margin-top: 0px !important;
+   margin-bottom: 20px;
+   padding: 10px 15px !important;
+}
+ .item_icon a{
+    height: 24px;
+    width: 24px;
+    background-color: #FFB400;
+    color: #2B2B2B;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 2px 2px;
+ }
+
+ .line_item{
+   margin-top: 25px;
+   border: 1.5px solid #F0F0F6;
+   margin-bottom: 20px;
+ }
+
+ .milon{
+   display: flex;
+   justify-content: space-between;
+ }
+
+ .milon h4 {
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   height: 20px;
+   background-color: #FFB400;
+}
+
+.milon p {
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.milon p span {
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   color: #7EB942;
+
+ }
+ 
+
+ .area_text h4{
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+   text-align: left;
+   margin-bottom: 10px;
+ }
+
+
+ .text_bangla h4{
+   margin-top: 10px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   text-align: left;
+   color: #767676;
+ }
+
+ .text_bangla h5{
+   margin-top: -10px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   text-align: left;
+   color: #767676;
+
+ }
+
+
+ .line_itemi {
+   margin-top: 10px;
+   border: 1.5px solid #F0F0F6;
+   margin-bottom: 20px;
+}
+
+
+ .text_itemi h4{
+   margin-top: 10px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   text-align: right;
+   color: #767676;
+
+ }
+
+ .text_itemi h5{
+   margin-top: -10px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   text-align: right;
+   color: #767676;
+
+ }
+
+ .text_photo img{
+   margin-top: -16%;
+ }
+
+ 
+
+ .hamza{
+   display: flex;
+   justify-content: space-between;
+ }
+
+ .hamza img {
+   padding-top: 5px;
+   height: 20px;
+   width: 17px;
+}
+
+.hamza p{
+   font-family: Inter;
+   font-size: 14px;
+   font-weight: 400;
+   
+}
+
+.text_left{
+   text-align: left;
+   width: 250px;
+   margin-left: 20px;
+ }
+
+
+ .item_button a{
+   font-family: Inter;
+   font-size: 14px;
+   font-weight: 600;
+   color: #2B2B2B;
+   
+ }
+
+ .item_button a i{
+  font-size: 10Px;
+  margin-left: 8px;
+  color: #2B2B2B;
+ }
+
+ .item_button a{
+   padding: 14px 40px;
+   margin-left: 4%;
+   transition: all linear.3s;
+ }
+
+ .item_button a:hover{
+   background-color: #FFB400;
+   transition: all linear.3s;
+ }
+
+ 
+ /* 1st part css end */
+ 
+ 
+/* center area start */
+
+.center_banner_area{
+   background-color: #FFFFFF;
+   width: 100%;
+}
+
+.center_photo{
+   width: 325.72px;
+   margin-top: 10px;
+}
+
+.center_text{
+   margin-left: 30px;
+}
+   
+.center_text{
+   margin-top: 93px;
+}
+   
+.center_text h2{
+   font-family: Inter;
+   font-size: 48px;
+}
+   
+.center_text h2 span{
+   color: #FFB400;
+}
+
+   
+.center_text p{
+   margin-top: 18px;
+   font-family: Inter;
+   font-size: 16px;
+   font-weight: 400;
+   text-transform: capitalize;
+}
+
+ 
+.center_text a {
+   margin-top: 25px;
+   font-family: Inter;
+   font-size: 16px;
+   font-weight: 500;
+   color: #2B2B2B;
+   background-color: white;
+   border-radius: 5px;
+   padding: 16px 32px;
+   transition: all linear .3s;
+}
+
+.center_text a:hover{
+   background-color: #FFB400;
+}
+
+.center_text i{
+   transition: all linear .3s;
+}
+
+
+/* service part start */
+.service h4{
+   padding-top: 137px;
+   font-family: Inter;
+   font-size: 32px;
+   font-weight: 700;
+
+}
+
+.service p{
+   padding-top: 25px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   padding-bottom: 50px;
+   text-transform: capitalize;
+}
+
+.hasan {
+   background-color: white;
+   
+}
+
+.hasan img{
+   padding-top: 28px;
+
+}
+
+.hasan h2{
+   padding-top: 26px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+
+}
+
+.hasan h4{
+   padding-top: 15px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   padding-bottom: 42px;
+
+}
+
+
+.islam {
+   background-color: white;
+}
+
+.islam img{
+   padding-top: 28px;
+}
+
+.islam h2{
+   padding-top: 26px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+
+}
+
+.islam h4{
+   padding-top: 15px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   padding-bottom: 42px;
+
+}
+
+.mehedi {
+   background-color: white;
+}
+
+.mehedi img{
+   padding-top: 28px;
+}
+
+.mehedi h2{
+   padding-top: 17px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+
+}
+
+.mehedi h4{
+   padding-top: 15px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   padding-bottom: 42px;
+
+}
+
+.joy {
+   background-color: white;
+}
+
+.joy img{
+   padding-top: 33px;
+}
+
+.joy h2{
+   padding-top: 21px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+
+}
+
+.joy h4{
+   padding-top: 18px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   padding-bottom: 33px;
+
+}
+
+
+
+.graphy  {
+   background-color: white;
+}
+
+.graphy   img{
+   padding-top: 25px;
+}
+
+.graphy  h2{
+   padding-top: 25px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+
+}
+
+.graphy   h4{
+   padding-top: 18px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   padding-bottom: 33px;
+
+}
+
+
+.advertising {
+   background-color: white;
+}
+
+.advertising img{
+   padding-top: 28px;
+}
+
+.advertising h2{
+   padding-top: 30px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+
+}
+
+.advertising h4{
+   padding-top: 15px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   
+}
+
+
+.advertising h5{
+   padding-top: 15px;
+   font-family: Roboto;
+   font-size: 12px;
+   font-weight: 700;
+   padding-bottom: 42px;
+   transition: all linear.3s;
+}
+
+
+.advertising  h5:hover{
+   color: #FFB400;
+   transition: all linear.3s;
+}
+
+
+.advertising a i{
+   color: black;
+   transition: all linear.3s;
+}
+
+.advertising a i:hover{
+   color: #FFB400;
+   transition: all linear.3s;
+}
+
+
+
+
+/* service part end */
+
+/* Price part start */
+
+.Price h4{
+   padding-top:70px;
+   font-family: Inter;
+   font-size: 32px;
+   font-weight: 700;
+}
+
+.Price p{
+   padding-top: 25px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   padding-bottom: 50px;
+   text-transform: capitalize;
+}
+
+.Price-item{
+   background-color: white;
+   padding: 54px 18px;
+}
+
+
+
+.Price-item h2{
+   font-family: Inter;
+   font-size: 24px;
+   font-weight: 600;
+   text-align: center;
+
+}
+
+.Price-item h4{
+   padding-top: 19px;
+   font-family: Inter;
+   font-size: 32px;
+   font-weight: 700;
+   text-align: center;
+}
+
+.Price-item spen{
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   text-align: center;
+}
+
+.Price-item p{
+   padding-top: 8px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   text-align: center;
+   
+}
+
+.Price-item img{
+   padding-bottom: 21px;
+   left: 33px;
+   padding-top: 16px;
+  
+}
+
+.Price-item span{
+   margin-left: 15px;   
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   padding-top: 16px;
+   
+}
+
+
+.button-text-center{
+   text-align: center;
+   padding-top: 32px;
+   
+
+}
+.button-text-center a{
+   color: black;
+   font-family: Inter;
+   font-size: 14px;
+   text-align: center;
+   padding: 15px 45px;
+   border-radius: 50px;
+   background-color: white;
+   transition: all linear .3s;
+}
+
+
+.button-text-center a:hover{
+
+   background-color: #FFB400;
+   transition: all linear .3s;
+
+}
+
+/* Price part end */
+
+/* recommendations part start */
+
+.recommendations h4{
+   padding-top:70px;
+   font-family: Inter;
+   font-size: 32px;
+   font-weight: 700;
+}
+
+.recommendations p{
+   padding-top: 25px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   padding-bottom: 50px;
+   text-transform: capitalize;
+}
+
+
+.recommendations-item{
+   background-color: white;
+   padding: 25px;
+}
+
+.recommendations-item img{
+   margin-right: 10px;
+ 
+}
+
+.recommendations-item h4{
+   padding-top: 16px;
+   font-size: 18px;
+   font-weight: 500;
+
+}
+
+.recommendations-item h5{
+   padding-top: 18px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+
+}
+
+.photo img{
+   padding-top: 30px;
+}
+
+.photo_text h4{
+   padding-top: 48px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+   
+}
+
+.photo_text h5{
+   padding-top: 5px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   
+}
+
+.icon img{
+   padding-top: 50px;
+}
+
+/* recommendations part end */
+
+/* Education css part start */
+
+.sabbir{
+   background-color: white;
+   padding-left: 37px;
+ }
+   
+   
+
+.shilpi h4{
+margin-top: 51px;
+font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+text-transform: capitalize;
+
+   
+}
+
+
+.mehedi h5{
+   padding-top: 25px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+    
+}
+
+.tofiq h5{
+   margin-top: 32px;
+   font-family: Inter;
+   font-size: 10px;
+   font-weight: 400;
+   display: inline-block;
+   background-color: #FFB400;
+
+}
+
+
+.tasin h4{
+   margin-top: 47px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+   text-transform: capitalize;
+   
+   
+}
+
+.tasin p{
+   margin-top: 28px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   text-transform: capitalize;
+
+}
+
+.line{
+   border: 1px solid #f1f1f1;
+}
+
+/* Education css part end */
+
+/* Portfolio part start */
+
+.item a{
+   margin: 37px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+   color: black;
+   transition: all linear .3s;
+}
+
+.item a:hover{
+   color: #FFB400;
+   transition: all linear .3s;
+}
+
+
+.item_photo img{
+  margin-top: 50px;
+}
+
+.item_gallery img{
+   margin-top: 20px;
+}
+
+/* Portfolio part end */
+
+/* Blog part start */
+
+.text_img{
+   background-color: white;
+   padding-left: 25px;
+}
+
+.text_img h4{
+   padding-top: 25px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+
+}
+
+.text_img p{
+   padding-top: 8px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+}
+
+.logo_text h5{
+   padding-top: 9px;
+   font-size: 18px;
+   font-weight: 500;
+   color: black;
+   transition: all linear .3s;
+}
+
+.logo_text h5:hover{
+   color: #FFB400;
+   transition: all linear .3s;
+}
+
+
+.logo_text a i{
+   font-size: 10px;
+   color: black;
+   transition: all linear .3s;
+  
+}
+
+.logo_text a i:hover{
+   color: #FFB400;
+   transition: all linear .3s;
+  
+}
+
+/* Blog part end */
+
+/* Leave us part start */
+.leave_text h4{
+   padding-top: 70px;
+   padding-bottom: 50px;
+   font-family: Inter;
+   font-size: 32px;
+   font-weight: 700;
+   color: #2B2B2B;
+   text-transform: capitalize;
+}
+
+.table{
+   background-color: white;
+   padding: 25px 25px;
+}
+
+.table h5{
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+}
+
+.form input{
+   padding-top: 8px;
+}
+
+
+#namek{
+   width: 100%;
+   height: 50px;
+   display: block;
+   border: 1px solid #F0F0F6;
+   background: #F0F0F6;
+   margin-bottom: 25px;
+}
+
+
+#message{
+   width: 100%;
+   height: 210px;
+   display: block;
+   border: 1px solid #F0F0F6;
+   background: #F0F0F6;
+   margin-bottom: 25px;
+}
+
+
+#btnn{
+   height:35px;
+   width: 160px;
+   font-family: Inter;
+   font-size: 14px;
+   font-weight: 600;
+   border: 1px solid #F0F0F6;
+   text-transform: uppercase;
+   transition: all linear .3s;
+}
+
+#btnn:hover{
+   background-color: #FFB400;
+   transition: all linear .3s; 
+}
+
+.leave-item{
+   padding: 0px 25px;
+   background-color: white;
+   text-align: center;
+}
+
+.leave-item img{
+   margin-top: 30px;
+   font-size: 18px;
+   padding: 20px 20px;
+   border-radius: 50%;
+   background-color: #FFB400;
+}
+
+.location h5{
+   padding-top: 23px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+   text-align: left;
+   color:  #767676;
+}
+
+
+.location h6{
+   padding-top: 15px;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 500;
+   text-align: left;
+   color:  #767676;
+}
+
+
+.location_item h5{
+   padding-top: 22px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   text-align: right;
+   color:  #767676;
+}
+
+
+.location_item h6{
+   padding-top: 20px;
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   text-align: right;
+   color:  #767676;
+}
+
+.kawsar{
+   padding: 0px 25px;
+   margin-top: 18px;
+   background-color: white;
+}
+
+.kawsar img{
+   margin-top: 30px;
+   font-size: 18px;
+   padding: 20px 20px;
+   border-radius: 50%;
+   background-color: #FFB400;
+}
+   
+/* Leave us part end */
+
+/* map part start */
+
+.map_item img{
+   padding-top: 71px;
+}
+
+/* map part end */
+
+/* footer part start */
+.footer_img{
+   padding-top: 70px;
+}
+
+.footer_text{
+   margin-top: 70px;
+   background-color: white;
+}
+
+.footer_text h5{
+   padding: 18px;   
+   font-family: Inter;
+   font-size: 15px;
+   font-weight: 400;
+   color: #2B2B2B;
+}
+/* footer part end */
+
+/* center area end */
+
+
+ /* 3rd part css start */
+ .rightbar{
+   background-color: white;
+   width: 100%;
+   height: 1350px;
+   text-align: center;
+   
+ }
+
+ .rightbar img{
+   padding-top: 50px;
+ }
+
+ .text_home{
+   margin-top: 174px;
+   width: 100%;
+   position: relative;
+ }
+
+ .text_home a{
+   color: #f1f1f1;
+   padding: 5px 20px;
+   z-index: 100;
+   position: relative;
+   background-color: black;
+ }
+
+ 
+.piramid{
+   height: 15px;
+   width: 15px;
+   background-color:black;
+   transform: rotate(45deg);
+   position: absolute;
+   z-index: 5;
+   top: 80%;
+   left: 45%;
+   z-index: 1;
+  
+}
+
+.rakib img{
+   width: 18px;
+   height: 18px;
+}
+
+.rakib a img{
+   margin-top: 16px;
+   width: 40px;
+   height: 40px;
+   padding: 12px 12px;
+   border-radius: 45%;
+   background-color: #FFB400;
+}
+
+.sazid img{
+   width: 18px;
+   height: 18px;
+}
+
+
+.sazid a img{
+   margin-top: 43px;
+   width: 40px;
+   height: 40px;
+   padding: 12px 12px;
+   border-radius: 45%;
+   background: #F0F0F6;
+
+}
+
+
+ /* 3rdst part css end*/
+
+
+

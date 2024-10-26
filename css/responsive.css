@@ -1,0 +1,801 @@
+/* // X-Small devices (portrait phones, less than 576px) */
+/* // No media query for `xs` since this is the default in Bootstrap */
+@media (min-width: 320px) and (max-width: 575px) 
+{
+
+    .center_text {
+        margin-right: 2px !important;
+    }
+    .center_text h2{
+        font-size: 1.3rem;
+    }
+    .center_text p{
+        font-size: 0.9rem;
+    }
+    .center_photo{
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .center_photo img{
+        width: 60% !important;
+    }
+    .center_text a {
+        margin-top: 10px !important;
+        font-size: 14px;
+        padding: 10px 20px;
+
+    }
+
+    .header_part_contant{
+        flex-direction: column-reverse !important;
+    }
+    .center_text{
+        margin: 20px  0;
+    }
+    .service p {
+        font-size: 7px;
+    }
+
+    .joy h4 {
+        font-size: 13px;
+    }
+
+    .advertising  h4 {
+        font-size: 11px;
+    }
+
+    .Price p {
+        font-size: 7px;
+    }
+
+    .Price-item p {
+        font-size: 9px;
+        
+    }
+
+    .Price-item h4 {
+        font-size: 33px;
+    }
+
+    .Price-item h4 {
+        font-size: 39px;
+    }
+
+    .graphy   h4 {
+        font-size: 13px;
+    }
+
+    .Price-item span {
+        font-size: 10px;
+    }
+
+    .Price-item img {
+        padding-top: 22px;
+    }
+
+
+    .button-text-center a {
+        font-size: 10px;
+    }
+
+
+    .recommendations p {
+        font-size: 13px;
+    }
+
+ 
+
+    .recommendations h4 {
+        font-size: 24px;
+    }
+
+    .shilpi h4 {
+        font-size: 15px;
+    }
+
+    .tasin h4 {
+        font-size: 13px;
+    }
+
+    .text_img h4 {
+        font-size: 11px;
+    }
+
+    .text_img p {
+        font-size: 11px;
+    }
+    .logo_text h5 {
+        padding-top: 0px;
+    }
+
+    .leave_text h4 {
+        font-size: 24px;
+    }
+
+    .table h5 {
+        font-size: 11px;
+    }
+
+    .leave_text h4 {
+        font-size: 22px;
+    }
+
+    .location h5 {
+        text-align: center;
+    }
+
+    .location h6 {
+        text-align: center;
+    }
+
+    .location_item h5 {
+        text-align: right;
+    }
+
+    .location_item h6 {
+        text-align: center;
+    }
+
+    .location_item h5 {
+        text-align: center;
+    }
+
+
+    .item a {
+        margin: 9px;
+        font-size: 10px;
+    }
+
+    .item a {
+        margin: 3px;
+        font-size: 10px;
+    }
+
+
+    .tofiq h5 {
+        margin-top: 0px;
+    }
+
+
+    .sitebar_imge {
+        padding-top: 20px;
+    }
+    .sitebar_imge img {
+        height: 5rem;
+        width: 5.5rem !important;
+        padding: 0;
+    }
+
+    .item_text h2 {
+        font-size: 7px;
+        padding-top: 10px;
+    }
+
+    .item_text h4 {
+        padding-top: 10px;
+        font-size: 5px;
+    }
+
+    .footer_img {
+        text-align: center;
+     }
+
+     .tasin p {
+        font-size: 5px;
+    }
+
+    .item_text h2 {
+        font-size: 10px;
+        padding-top: 15px;
+    }
+
+    .item_text h4 {
+        font-size: 7px;
+    }
+
+    .milon{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .milon h4 {
+        padding-top: 6px;
+        font-size: 7px;
+    }
+
+    .milon p {
+        font-size: 6px;
+        text-align: center;
+    }
+
+    .milon p span {
+        font-size: 6px;
+        text-align: center;
+    }
+
+    .area_text h4 {
+        font-size: 10px;
+    }
+
+    .text_itemi h4 {
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .text_itemi h5 {
+        margin-top: -3px;
+        text-align: center;
+    }
+
+    .text_bangla h5 {
+        font-size: 11px;
+        text-align: center;
+    }
+
+    .text_itemi h5 {
+        font-size: 8px;
+        text-align: center;
+    }
+
+    .text_bangla h4 {
+        font-size: 11px;
+        text-align: center;
+    }
+
+    .text_itemi h4 {
+        text-align: center;
+        font-size: 8px;
+    }
+    
+    .area_text h4 {
+        font-size: 10px;
+        text-align: center;
+    }
+
+    .item_icon {
+        text-align: center;
+        padding-top: 2px;
+    }
+
+    .line_item {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .line_itemi {
+        margin-top: 1px;
+        margin-bottom: 10px;
+    }
+
+    .hamza{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hamza p {
+        font-family: Inter;
+        font-size: 4px;
+        font-weight: 400;
+    }
+
+    .hamza img {
+        padding-top: 2px;
+        height: 12px;
+        width: 10px;
+    }
+
+    .hamza p {
+        font-size: 4px;
+    }
+
+    .item_button a {
+        font-size: 5px;
+        padding: 14px 4px;
+        margin-left: 4%;
+    }
+    .item_button a i {
+        text-align: center;
+        font-size: 5Px;
+        margin-left: 8px;
+    }
+    
+}
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px)
+
+{ 
+
+    .header_part_contant{
+        flex-direction: column-reverse !important;
+    }
+    
+    .center_text h2 {
+        font-size: 33px;
+    }
+
+
+    .center_text p {
+        font-size: 12px;
+    }
+
+    .center_text {
+        margin-top: 36px;
+    }
+
+    .center_photo {
+        width: 212.72px;
+        margin-left: 21%;
+    }
+
+    .service p {
+        font-size: 12px;
+    }
+
+    .recommendations p {
+        font-size: 13px;
+    }
+
+    .item a {
+        margin: 7px;
+    }
+
+    .location h5 {
+        text-align: center;
+    }
+
+    .location h6 {
+        text-align:center;
+    }
+
+    .location_item h5 {
+        text-align: center;
+    }
+
+    .location_item h6 {
+        text-align: center;
+    }
+
+    .sitebar_imge img {
+        height: 128px;
+        padding: 7px;
+    }
+
+    .item_text h2 {
+        font-size: 14px;
+        padding-top: 15px;
+    }
+
+    .item_text h4 {
+        padding-top: 10px;
+        font-size: 11px;
+    }
+
+    .tasin p {
+        font-size: 10px;
+    }
+
+    .footer_img {
+       text-align: center;
+    }
+    .sitebar_imge img {
+        height: 162px;
+    }
+    .milon{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .milon p span {
+        text-align: center;
+        font-size: 11px;
+    }
+
+    .milon p {
+        text-align: center;
+        font-size: 11px;
+    }
+
+    .line_item {
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .text_itemi h4 {
+        margin-top: -25px;
+    }
+
+    .text_itemi h5 {
+        margin-top: -25px;
+    }
+
+    .hamza p {
+        font-size: 6px;
+    }
+
+    .hamza img {
+        padding-top: 1px;
+        height: 8px;
+    }
+
+    .item_button a {
+        padding: 14px 6px;
+    }
+
+    }
+
+
+
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px)
+ { 
+
+    .header_part_contant{
+        flex-direction: column-reverse !important;
+    }
+
+    .center_photo {
+       margin-left: 16%;
+    }
+
+    .center_text h2 {
+        font-size: 46px;
+    }
+
+    .hasan h4 {
+        padding-bottom: 38px;
+    }
+
+    .mehedi h4 {
+        padding-bottom: 45px;
+    }
+    
+    .mehedi h4 {
+        font-size: 12px;
+    }
+
+    
+    .advertising h5 {
+        padding-bottom: 7px;
+    }
+
+    .islam h4 {
+        font-size: 11px;
+    }
+
+    .hasan h2 {
+        font-size: 17px;
+    }
+    
+    .Price-item span {
+        font-size: 6px;
+    }
+
+    .button-text-center a {
+        padding: 15px 12px;
+    }
+
+    .Price-item img {
+        padding-top: 24px;
+    }
+
+    .Price-item p {
+        font-size: 7px;
+    }
+
+    
+    .Price-item h4 {
+        font-size: 33px;
+    }
+
+    .recommendations-item img {
+        margin-right: -1px;
+    }
+
+    .recommendations-item h4 {
+        font-size: 16px;
+    }
+
+    .mehedi h5 {
+        font-size: 8px;
+    }
+
+    .tofiq h5 {
+        margin-top: 27px;
+        font-size: 4px;
+    }
+
+    .tasin p {
+        font-size: 7px;
+    }
+
+    .item a {
+        margin: 4px;
+    }
+
+    .joy h4 {
+        padding-top: 21px;
+        font-size: 11px;
+    }
+
+    .advertising h4 {
+        padding-top: 18px;
+        font-size: 14px;
+    }
+
+    .graphy   h4 {
+        font-size: 13px;
+    }
+
+    .leave_text h4 {
+        font-size: 20px;
+    }
+
+    .table h5 {
+        font-size: 17px;
+    }
+
+    .location h5 {
+        font-size: 7px;
+    }
+
+    .location_item h5 {
+        font-size: 8px;
+    }
+
+    .location_item h6 {
+        padding-top: 37px;
+        font-size: 5px;
+    }
+
+    .location h6 {
+        padding-top: 34px;
+        font-size: 7px;
+    }
+
+    .text_img h4 {
+        font-size: 9px;
+    }
+
+    .text_img p {
+        font-size: 8px;
+    }
+
+    .logo_text h5 {
+        font-size: 6px;
+    }
+
+    .logo_text a i {
+        font-size: 5px;
+    }
+
+    .sitebar_imge img {
+        height: 175px;
+        padding: 13px;
+    }
+
+
+    .item_text h2 {
+        padding-top: 15px;
+    }
+
+    .sitebar_imge img {
+        height: 204px;
+    }
+
+    .hamza p {
+        font-size: 12px;
+    }
+
+    .hamza img {
+        height: 16px;
+    }
+
+    .item_button a {
+        padding: 14px 29px;
+    }
+
+    .milon{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .milon p {
+        text-align: center;
+    }
+
+    .line_item {
+        margin-top: 4px;
+        margin-bottom: 16px;
+    }
+
+    .line_itemi {
+        margin-top: 1px;
+    }
+
+    .area_text h4 {
+        font-size: 12px;
+    }
+
+
+    
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) 
+{ 
+
+    .center_photo {
+        width: 231.72px;
+        margin-top: 268px;
+    }
+
+    .center_text h2 {
+        font-size: 34px;
+    }
+
+    .center_text p {
+        font-size: 12px;
+    }
+
+    .islam h4 {
+        font-size: 14px;
+    }
+
+    .advertising h4 {
+        padding-top: 28px;
+        font-size: 13px;
+    }
+
+    .joy h4 {
+        font-size: 14px;
+    }
+
+    .Price-item span {
+        font-size: 11px;
+    }
+
+    .button-text-center a {
+        padding: 15px 36px;
+    }
+
+    .recommendations-item img {
+        margin-right: 8px;
+    }
+
+    .mehedi h5 {
+        font-size: 10px;
+    }
+
+    .tofiq h5 {
+        margin-top: 29px;
+        font-size: 6px;
+    }
+
+    .item a {
+        margin: 18px;
+    }
+
+    .text_img h4 {
+        font-size: 12px;
+    }
+
+    .leave_text h4 {
+        font-size: 26px;
+    }
+
+    .tasin p {
+        font-size: 10px;
+    }
+
+    .text_img p {
+        font-size: 11px;
+    }
+
+    .logo_text h5 {
+        font-size: 10px;
+    }
+
+    .location h5 {
+        font-size: 11px;
+    }
+
+
+    .location_item h5 {
+        padding-top: 26px;
+        font-size: 9px;
+    }
+
+    .location h6 {
+        padding-top: 28px;
+        font-size: 11px;
+    }
+
+    .location_item h6 {
+        padding-top: 31px;
+        font-size: 8px;
+    }
+
+    .sitebar_imge img {
+        height: 231px;
+        padding: 26px;
+    }
+
+    .item_text h2 {
+        padding-top: 15px;
+    }
+
+    .sitebar_imge img {
+        height: 262px;
+    }
+
+    .line_item {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+
+
+}
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399px) 
+
+
+{  
+
+    .tasin p {
+        font-size: 14px;
+    }
+
+    .logo_text h5 {
+        font-size: 16px;
+    }
+
+    .location h5 {
+        font-size: 17px;
+    }
+
+    .location h6 {
+        padding-top: 16px;
+    }
+
+    .location_item h5 {
+        padding-top: 27px;
+        font-size: 13px;
+    }
+
+    .location_item h6 {
+        padding-top: 22px;
+        font-size: 13px;
+    }
+
+    .milon h4 {
+        font-size: 13px;
+    }
+
+    .milon p {
+        font-size: 13px;
+    }
+
+    .hamza p {
+        font-size: 13px;
+    }
+
+    .hamza img {
+        padding-top: 4px;
+        height: 17px;
+        width: 17px;
+    }
+
+    .item_button a {
+        padding: 14px 33px;
+    }
+
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { ... }
